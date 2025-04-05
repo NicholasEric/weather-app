@@ -1,3 +1,5 @@
+This is my seventh project. The objective of this project is to test out API fetching using the open source geodata and weather API I found online.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
